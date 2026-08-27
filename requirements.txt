@@ -1,0 +1,4 @@
+rubka
+fastapi
+uvicorn
+Pillow
